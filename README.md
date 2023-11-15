@@ -1,5 +1,8 @@
 # ark-front-end-test
 
+Access the live version on Vercel:
+[https://ark-front-end-test.vercel.app/](https://ark-front-end-test.vercel.app/)
+
 To start the app locally:
 
 1. Clone the repo
