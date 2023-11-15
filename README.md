@@ -1,5 +1,7 @@
 # ark-front-end-test
 
+<img width="1679" alt="Screenshot 2023-11-15 at 04 53 21" src="https://github.com/gaeduron/ark-front-end-test/assets/11267346/407ecb0a-eda1-41fd-b306-325505143f2b">
+
 Access the live version on Vercel:
 [https://ark-front-end-test.vercel.app/](https://ark-front-end-test.vercel.app/)
 
